@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Hi there 👋
 Soy Laura Ortiz, actualmente estudiando desarollo de Software en el SENA institucion Colombiana, me gusta trabajar en Back-end principalmente, sin embargo manejo conceptos de Front-end, prefiero trabajar con lenguajes tipados como C++.
 
 I'm Laura Ortiz, I'm currently studiying Sofware development with SENA a Colombian institution, I like to work with Back-end mainly, however I handle concepts of Front-end, I enjoy and prefer to work with tiped languages like C++.
